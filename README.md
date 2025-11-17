@@ -49,20 +49,6 @@ Chào! Tôi là **Sơn**. Tôi là một kỹ sư AI đầy tham vọng với ni
 
 ---
 
-### 📊 **GitHub Statistics**
-
-<div align="center">
-  <a href="https://github.com/WinKy1-stack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WinKy1-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinKy1-stack&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🤝 **Connect with Me**
 
