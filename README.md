@@ -54,7 +54,7 @@ Chào! Tao là **Sơn**. Tao là một kỹ sư AI đầy tham vọng với ni�
 <div align="center">
   <a href="https://github.com/WinKy1-stack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WinKy1-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinKy1-stack&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
