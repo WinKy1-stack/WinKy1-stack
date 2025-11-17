@@ -70,7 +70,7 @@ Improving: Full-stack AI deployment with Docker & Cloud services
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinKy1-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=WinKy1-stack&limit=5&theme=tokyonight&hide_border=true" />
+  img width="49%" src="https://github-contributor-stats.vercel.app/api?username=WinKy1-stack&limit=5&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -123,8 +123,7 @@ Improving: Full-stack AI deployment with Docker & Cloud services
 ### 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WinKy1-stack&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=WinKy1-stack&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" /></div>
 
 ---
 
