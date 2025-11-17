@@ -64,12 +64,17 @@ Improving: Full-stack AI deployment with Docker & Cloud services
 ### 📊 **GitHub Statistics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WinKy1-stack&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinKy1-stack&theme=tokyonight&hide_border=true&cache_seconds=0" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WinKy1-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinKy1-stack&theme=radical&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinKy1-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinKy1-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+</div>
+
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <img src="https://github.com/WinKy1-stack/WinKy1-stack/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
