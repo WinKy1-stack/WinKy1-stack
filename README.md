@@ -52,8 +52,8 @@ Chào! Tao là **Sơn**. Tao là một kỹ sư AI đầy tham vọng với ni�
 ### 📊 **GitHub Statistics**
 
 <div align="center">
-  <a href="https://github.com/USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/WinKy1-stack">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WinKy1-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
@@ -68,8 +68,8 @@ Chào! Tao là **Sơn**. Tao là một kỹ sư AI đầy tham vọng với ni�
 
 <div align="center">
   <a href="https://linkedin.com/in/USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://facebook.com/USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="mailto:EMAIL_CUA_MAY@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/ngocson.pham.334839/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="mailto:0888873104t@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </div>
 
 <div align="center">
