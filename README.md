@@ -67,11 +67,12 @@ Chào! Tôi là **Sơn**. Tôi là một kỹ sư AI đầy tham vọng với ni
 ### 🤝 **Connect with Me**
 
 <div align="center">
-  <a href="https://linkedin.com/in/USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/ngocson.pham.334839/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="mailto:0888873104t@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://github.com/WinKy1-stack">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WinKy1-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinKy1-stack&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=0"/>
+  </a>
 </div>
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&label=Profile+Views&color=0e75b6" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WinKy1-stack&theme=tokyonight&cache_seconds=0" alt="GitHub Streak" />
 </div>
