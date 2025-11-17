@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZtZ254Z3d6bmx4b3dwbXJ3b3dwbXJ3b3dwbXJ3b3dwbXJ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif">
 
-Chào! Tao là **Sơn**. Tao là một kỹ sư AI đầy tham vọng với niềm đam mê biến dữ liệu thô thành các mô hình thông minh.
+Chào! Tôi là **Sơn**. Tôi là một kỹ sư AI đầy tham vọng với niềm đam mê biến dữ liệu thô thành các mô hình thông minh.
 
 * 🎓 **Chuyên ngành:** Trí tuệ nhân tạo (Artificial Intelligence).
 * 💻 **Ngôn ngữ chính:** Python (Mastery), Java, C++.
