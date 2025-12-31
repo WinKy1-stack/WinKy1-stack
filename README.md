@@ -14,14 +14,14 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZtZ254Z3d6bmx4b3dwbXJ3b3dwbXJ3b3dwbXJ3b3dwbXJ3Yi5naWZkPWFmNzEwMTZjOWRmOWI4NzYyZjY2ZDc2NzE2YjZjOGZhOTBlMDU5NzY/L8K62iTDkzGX6/giphy.gif">
 
-Chào! Tôi là **Sơn**. Tôi là một kỹ sư AI đầy tham vọng với niềm đam mê biến dữ liệu thô thành các mô hình thông minh.
+Hi there! My name is **Son**.  
+I am an aspiring AI engineer with a strong passion for turning raw data into intelligent models.  
 
-- 🎓 **Chuyên ngành:** Trí tuệ nhân tạo (Artificial Intelligence).
-- 💻 **Ngôn ngữ chính:** Python (Mastery), Java, C++.
-- 🧠 **Sở trường:** Xây dựng mô hình Học sâu (Deep Learning), Xử lý ảnh (Computer Vision) & Xử lý ngôn ngữ tự nhiên (NLP).
-- 🌐 **Kỹ năng Web:** Tích hợp AI vào Web App sử dụng Flask/Django/FastAPI.
-- 💡 **Triết lý:** "Code không chỉ để chạy, code là để giải quyết vấn đề thực tế."
-
+- 🎓 **Major:** Artificial Intelligence  
+- 💻 **Main languages:** Python (Mastery), Java, C++  
+- 🧠 **Strengths:** Deep Learning, Computer Vision, and Natural Language Processing (NLP)  
+- 🌐 **Web skills:** Integrating AI into web applications using Flask, Django, and FastAPI  
+- 💡 **Philosophy:** “Code is not just to run, code is to solve real-world problems.” 
 ---
 
 ### 🔥 **Current Focus**
