@@ -50,14 +50,14 @@ Improving: Full-stack AI deployment with Docker & Cloud services
 
 ### 🧠 **Deep Dive: My Expertise**
 
-> **"Tôi không chỉ train model, tôi tối ưu hóa chúng."**
+> **"I don't just train models—I optimize them."**
 
-- **Machine Learning:** Regression, SVM, Random Forest, Decision Trees, Clustering (K-Means).
+- **Machine Learning:** Regression, SVM, Random Forest, Decision Trees, and K-Means Clustering.
 - **Deep Learning Models:**
-  - **CNNs:** ResNet, YOLO, VGG (Cho nhận diện vật thể, phân loại ảnh).
-  - **RNNs/LSTMs:** Dự báo chuỗi thời gian, phân tích cảm xúc.
-  - **Transformers:** BERT, GPT (Cho NLP tasks).
-- **AI Deployment:** Đóng gói model AI thành API, deploy lên server, tối ưu hóa độ trễ (Inference time).
+  - **CNNs:** ResNet, YOLO, and VGG for object detection and image classification.
+  - **RNNs/LSTMs:** Time-series forecasting and sentiment analysis.
+  - **Transformers:** BERT and GPT for Natural Language Processing (NLP) tasks.
+- **AI Deployment:** Packaging AI models as APIs, deploying them to servers, and optimizing inference latency.
 
 ---
 
